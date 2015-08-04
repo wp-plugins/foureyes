@@ -24,7 +24,7 @@ The plugin communicates  with the FourEyes servers to display your embedded surv
 
 == Installation ==
 
-1. Install the FourEyes plugin your Wordpress admin by going to *'Plugins / Add New'* and searching for *'FourEyes'* OR dowload the plugin and unzip into your /wp-content/plugins/ directory.
+1. Install the FourEyes plugin your Wordpress admin by going to *'Plugins / Add New'* and searching for *'FourEyes'* OR download the plugin and unzip into your /wp-content/plugins/ directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 = Configuration =
