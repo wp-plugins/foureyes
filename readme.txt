@@ -44,7 +44,7 @@ Simply go to https://getfoureyes.com/ and create a survey in seconds!
 
 == Changelog ==
 
-= 1.0.1
+= 1.0.1 =
 * Bug fix
 = 1.0 =
 * First release
