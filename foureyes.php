@@ -3,7 +3,7 @@
 Plugin Name: FourEyes
 Plugin URI: http://wordpress.org/plugins/foureyes/
 Description: FourEyes survey plugin - Embed FourEyes surveys directly onto your Wordpress site.
-Version: 1.0
+Version: 1.0.1
 Author: Sparklit Networks
 Author URI: http://sparklit.com
 License: GPLv2 or later
